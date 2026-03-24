@@ -1,0 +1,7 @@
+intervention,description,cost_cr,cac_before,cac_after,ltv_cac_before,ltv_cac_after,ltv_cac_improvement,payback_improvement_months,net_revenue_impact_cr,roi_multiple,brand
+CAC Reduction (Paid→Organic Shift),Shift 15% of paid spend (₹93Cr) to creator/organic at 40% of paid CAC,0.0,2943.0,2678.0,0.91,1.0,0.09,2.8,387.4,999.0,Mamaearth
+AOV Increase (Bundling/Upsell),+12% AOV via bundling; ₹581 → ₹651 per order,10.3,2943.0,2943.0,0.91,1.02,0.11,3.4,247.9,24.0,Mamaearth
+Retention Improvement (CRM/Loyalty),10% churn reduction; lifespan 2.4yrs → 3.0yrs; invest ₹31Cr in CRM,31.0,2943.0,2943.0,0.91,1.16,0.25,0.0,32.9,1.1,Mamaearth
+CAC Reduction (Paid→Organic Shift),Shift 15% of paid spend (₹65Cr) to creator/organic at 40% of paid CAC,0.0,937.0,852.0,4.65,5.12,0.46,0.8,575.6,999.0,boAt
+AOV Increase (Bundling/Upsell),+12% AOV via bundling; ₹2326 → ₹2605 per order,15.4,937.0,937.0,4.65,5.21,0.56,1.0,368.4,24.0,boAt
+Retention Improvement (CRM/Loyalty),10% churn reduction; lifespan 3.5yrs → 4.2yrs; invest ₹46Cr in CRM,46.0,937.0,937.0,4.65,5.52,0.86,0.0,181.9,3.9,boAt
